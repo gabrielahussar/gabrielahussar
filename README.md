@@ -1,4 +1,10 @@
-### Hi there 👋
+ ## Olá, comunidade :) 
+😄 Me chamo Gabriela e estou aqui para aprender um pouco mais sobre programação! <br>
+📍 Sou de Uberaba, Minas Gerais. <br>
+📚 Curso o 3º ano do ensino médio, além de cursar Informática no SENAI-MG. <br>
+✨ Estou aberta a discussões e a sempre descobrir algo novo todos os dias! <br>
+💬 "Não basta conquistar a sabedoria, é preciso usá-la." -Cícero
+
 
 <!--
 **gabrielahussar/gabrielahussar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
