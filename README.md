@@ -4,7 +4,7 @@
 📚 Curso o 3º ano do ensino médio, além de cursar Informática no SENAI-MG. <br>
 ✨ Estou aberta a discussões e a sempre descobrir algo novo todos os dias! <br>
 💬 "Não basta conquistar a sabedoria, é preciso usá-la." -Cícero
-![ Alt text](gatinho. gif) / ! [](gatinho. gif)
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRencACEXAErQZ5RS9MARLgeHfj5Gxb_B-Whg&usqp=CAU)
 
 <!--
 **gabrielahussar/gabrielahussar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
